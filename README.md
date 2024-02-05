@@ -51,10 +51,9 @@ As a repo admin you can also deploy manually:
   If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
 ---
-title: Flowcharts in mermaid
+title: Account, User, Wallets, and Transaction Relationship Flow.
 ---
 
-### Account, User, Wallets, and Transaction Relationship Flow.
 
 ```mermaid
 flowchart TD
